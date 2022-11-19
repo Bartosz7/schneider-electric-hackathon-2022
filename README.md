@@ -1,5 +1,5 @@
 # schneider-electric-hackathon-2022
-DataEnts:
+Data Ents:
 - Tomasz Siudalski
 - Bartosz Grabek
 - Grzegorz Zbrzeżny
